@@ -64,6 +64,7 @@ header {
 }
 
 #menu-icon {
+  display: none;
   color: var(--text-color);
   font-size: 2rem;
   cursor: pointer;
