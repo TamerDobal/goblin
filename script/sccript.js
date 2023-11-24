@@ -14,7 +14,7 @@ const sr = ScrollReveal ({
   reset: true
 });
 
-sr.reveal('img',{delay:200, origin: 'top'});
+sr.reveal('.hero',{delay:200, origin: 'top'});
 sr.reveal('.subject',{delay:450, origin: 'top'});
 sr.reveal('.social',{delay:600, origin: 'left'});
 sr.reveal('.buttons',{delay:800, origin: 'right'});
